@@ -2,13 +2,9 @@
   "name": "ng-initiative-tracker",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
+  "author": {
+    "name": "Jon Horner",
+    "email": "hornerjn2@gmail.com"
   },
   "private": true,
   "dependencies": {
@@ -42,5 +38,13 @@
     "ts-node": "~2.0.0",
     "tslint": "~4.5.0",
     "typescript": "~2.2.0"
+  },
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
   }
 }
